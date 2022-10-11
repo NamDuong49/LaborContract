@@ -1,0 +1,20 @@
+{
+  "laborContract": [
+    {
+      "id": 1,
+      "number": "SHĐ/5849",
+      "time": "28/10/2010 - 15/02/2018",
+      "boss": "Nguyễn Văn Phong",
+      "signDay": "15/02/2018",
+      "bossPosition": "Giám đốc"
+    },
+    {
+      "id": 2,
+      "number": "SHĐ/5936",
+      "time": "15/02/2018 - Tới nay",
+      "boss": "Nguyễn Văn Phong",
+      "signDay": "",
+      "bossPosition": "Giám đốc"
+    }
+  ]
+}
